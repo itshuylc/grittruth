@@ -88,4 +88,4 @@ tests/                Unit/API, SQL và trình duyệt
 docs/                 Hướng dẫn, báo cáo, screenshot
 ```
 
-Repository public: https://github.com/huyle-droid/grittruth. Xem hướng dẫn deploy demo không cần API key tại [PUBLIC-DEMO.md](docs/PUBLIC-DEMO.md). Không có khóa dịch vụ thật trong repository.
+Repository public: https://github.com/itshuylc/grittruth. Xem hướng dẫn deploy demo không cần API key tại [PUBLIC-DEMO.md](docs/PUBLIC-DEMO.md). Không có khóa dịch vụ thật trong repository.

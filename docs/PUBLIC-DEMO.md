@@ -3,7 +3,7 @@
 This edition can run without Supabase, Anthropic, Resend or Upstash credentials.
 
 ## Vercel dashboard
-1. Import https://github.com/huyle-droid/grittruth into your Vercel account.
+1. Import https://github.com/itshuylc/grittruth into your Vercel account.
 2. Use the Next.js preset, the repository root, Node.js 22.x, install command `npm ci`, build command `npm run build`, and the default output directory.
 3. Leave all external-service keys unset.
 4. Set `NEXT_PUBLIC_SITE_URL` to the canonical public URL, with no trailing slash. Use the assigned production vercel.app URL until your custom domain is connected. Redeploy after changing it.
